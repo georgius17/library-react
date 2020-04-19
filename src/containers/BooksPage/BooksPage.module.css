@@ -1,0 +1,11 @@
+.newButton{
+    margin-top:50px;
+    width: 100%;
+    display: block;
+    flex-flow: column;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
